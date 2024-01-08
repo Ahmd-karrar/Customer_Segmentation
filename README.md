@@ -13,7 +13,7 @@ each segment.
 - Number of unique Destination
 #### Merging all the above dfs
 #### Replace Nan value with 0 since NA 
-## Model Build
+## [Model Build](https://github.com/Ahmd-karrar/Customer_Segmentation/blob/main/%20kmeanModel.ipynb)
 - Drop unnecessary columns
 - Standardize the data using scale()
 - Create a plot for the elbow method to decide the optimum number of clusters
