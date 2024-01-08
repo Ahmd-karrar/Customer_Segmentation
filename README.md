@@ -11,5 +11,5 @@ each segment.
 - Number of unique Purchase 
 - Number of unique Brand
 - Number of unique Destination
-#### merging all the above dfs
-####  Replace Nan value with 0 since NA 
+#### Merging all the above dfs
+#### Replace Nan value with 0 since NA 
