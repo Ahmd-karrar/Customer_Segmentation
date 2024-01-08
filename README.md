@@ -13,3 +13,13 @@ each segment.
 - Number of unique Destination
 #### Merging all the above dfs
 #### Replace Nan value with 0 since NA 
+## Model Build
+- Drop unnecessary columns
+- Standardize the data using scale()
+- Create a plot for the elbow method to decide the optimum number of clusters
+- Running KMeans model
+- Add cluster membership to the data
+- Visualising cluster solution using two principal components of variables used in the clustering algorithm
+- Calculate the mean for each variable clusterwise
+![cluster_ddddddd](https://github.com/Ahmd-karrar/Customer_Segmentation/assets/155227956/b38f9eba-803b-4a28-9355-770ccd90a1ab)
+
