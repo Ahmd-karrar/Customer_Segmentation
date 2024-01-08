@@ -6,7 +6,7 @@ create segments of customers based on transaction patterns so that marketing str
 each segment.
 ## Data Management
 - create Month and Year variables.
-### derived variables used for customer segmentation 
+### Derived variables used for customer segmentation 
 - Total_Sales 
 - Number of unique Purchase 
 - Number of unique Brand
